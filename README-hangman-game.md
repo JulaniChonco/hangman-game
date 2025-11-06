@@ -64,6 +64,10 @@ Lives remaining: 5
 docs/screenshots/play-round.png
 docs/screenshots/game-over.png
 ```
+## Deployment
+This project is a **Python console-based** application and runs locally.  
+There is no live deployment link, as it executes directly in a terminal environment.
+
 
 ## Credits
 - Author: Julani Victor Chonco ([@JulaniChonco](https://github.com/JulaniChonco))
